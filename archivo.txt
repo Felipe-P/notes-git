@@ -1,0 +1,7 @@
+Hola soy Felipe Sánchez
+
+Estoy haciendo el curso de Git y GitHub
+
+Vivo en bogotá, Colombia
+
+Y soy egresado de la Universidad Distrital
